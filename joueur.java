@@ -2,7 +2,7 @@
 public class Joueur {
 
 	private String joueur;
-	private int score;
+	private int score; //score de la partie
 	
 	public Joueur(String j, int s){
 		this.setJoueur(j);
